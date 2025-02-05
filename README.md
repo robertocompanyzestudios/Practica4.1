@@ -2,4 +2,4 @@
 
 **Descripción:** Aprendiendo a usar los comandos y utulidades básicas de git.
 
-* **Archivo Principal.Java:** Muestra la hora actual
+* **Archivo Principal.Java:** automatización de creación de usuarios
